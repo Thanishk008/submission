@@ -1,0 +1,5 @@
+Model,Precision,Recall,F1,ROC-AUC,PR-AUC
+Logistic Regression,0.0673,0.8784,0.1249,0.9683,0.7406
+1D CNN (default),0.2993,0.8311,0.4401,0.9543,0.8052
+Best Ablation (Without SMOTE),0.8248,0.7635,0.793,0.9421,0.8026
+MobileNetV2 (Foundation),0.0148,0.6824,0.0291,0.8758,0.3016

@@ -1,0 +1,21 @@
+Sample Index,True Label,Predicted,P(Fraud),Error Type
+32231,Fraud,Legit,0.0,FN
+4686,Fraud,Legit,0.0,FN
+21928,Fraud,Legit,0.0,FN
+39541,Fraud,Legit,0.0,FN
+63868,Fraud,Legit,0.0,FN
+10747,Fraud,Legit,0.0,FN
+8963,Fraud,Legit,0.0,FN
+82593,Fraud,Legit,0.0,FN
+9484,Fraud,Legit,0.0,FN
+78686,Fraud,Legit,0.0,FN
+35500,Fraud,Legit,0.0,FN
+38494,Fraud,Legit,0.0,FN
+80870,Fraud,Legit,0.0,FN
+4901,Fraud,Legit,0.0,FN
+9582,Fraud,Legit,0.0,FN
+44952,Legit,Fraud,1.0,FP
+59380,Legit,Fraud,0.9999,FP
+76807,Fraud,Legit,0.0001,FN
+33208,Fraud,Legit,0.0001,FN
+28195,Fraud,Legit,0.0001,FN
