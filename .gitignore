@@ -24,3 +24,6 @@ build/
 # OS files
 Thumbs.db
 .DS_Store
+
+# Internal working notes
+REPORT_NOTES.txt
