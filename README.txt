@@ -77,6 +77,9 @@ Alternatively, download manually and place as data/creditcard.csv.
 The best model checkpoint is automatically saved to models/best_model.keras
 after running train.py.
 
+checkpoint box link (gave access to yusun@usf.edu, kandiyana@usf.edu):
+Thanishk :  https://usf.box.com/s/yzw5dwh03cy7oiyzmidfp37e8hn5nelm
+
 ------------------------------------------------------------
 
 ## 5. Requirements (Dependencies)
@@ -112,6 +115,9 @@ Thanishk's code directory contains its own README.txt
 with execution instructions, default parameters, and run order.
 
 - code_thanishk/README.txt
+
+Test and Train python files are individually placed in code_thanishk
+
 
 ------------------------------------------------------------
 
