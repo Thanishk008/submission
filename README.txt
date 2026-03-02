@@ -52,8 +52,8 @@ submission/
     CNN_model_withsmote_withlr0.01_epochs15.py
     foundation_model_withsmote.py
   presentation/
+    Final presentation.pptx
     presentation.mp4
-    presentation.pptx
   reports/
     report_thanishk.pdf
     report_savitha.pdf
@@ -90,16 +90,19 @@ PyTorch - Savitha
 
 How to install all dependencies:
 
-1. Create a Python virtual environment:
+1. Create a Python virtual environment (inside code_thanishk/):
 ```
 python -m venv {name}
 .\{name}\Scripts\activate
 ```
 
-2. Install packages:
+2. Install packages (inside code_thanishk/):
 ```
 pip install -r requirements.txt
 ```
+
+Note: code_Savitha/ contains standalone Python scripts with no
+separate requirements.txt.
 
 ------------------------------------------------------------
 
