@@ -44,20 +44,13 @@ submission/
     run_foundation.py
     test.py
     train.py
-  code_savitha/
-    data/
-    models/
-    outputs/
-    src/
-      __init__.py
-      baseline.py
-      dataloader.py
-      model.py
-      utils.py
-    README.txt
-    requirements.txt
-    test.py
-    train.py
+  code_Savitha/
+    baseline.py
+    CNN_model_withoutsmote_lr0.01_epochs30.py
+    CNN_model_withsmote_lr0.01_epochs30.py
+    CNN_model_withsmote_withlr0.001_epochs30.py
+    CNN_model_withsmote_withlr0.01_epochs15.py
+    foundation_model_withsmote.py
   presentation/
     presentation.mp4
     presentation.pptx
@@ -92,7 +85,8 @@ Python Version:
 3.9+
 
 Framework: 
-TensorFlow 2.20.0 (CPU-only execution)
+TensorFlow 2.20.0 (CPU-only execution) - Thanishk
+PyTorch - Savitha
 
 How to install all dependencies:
 
@@ -111,11 +105,10 @@ pip install -r requirements.txt
 
 ## 6. Running the Code
 
-Each team member's code directory contains its own README.txt
+Thanishk's code directory contains its own README.txt
 with execution instructions, default parameters, and run order.
 
 - code_thanishk/README.txt
-- code_savitha/README.txt
 
 ------------------------------------------------------------
 
@@ -126,11 +119,5 @@ with execution instructions, default parameters, and run order.
 - [x] requirements.txt generated and Python version specified.
 - [x] Test command works.
 - [x] Train command works.
-- [x] Ablation study script included.
-- [x] Foundation model comparison script included.
-- [x] Error analysis script included.
-- [x] Unified comparison script included.
-- [x] Code directories for both team members.
-- [x] Report placeholders for both team members.
 
 ------------------------------------------------------------

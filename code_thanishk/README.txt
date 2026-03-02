@@ -138,3 +138,17 @@ All scripts use default values. Parameters can be changed individually
 via command-line arguments (see --help for each script).
 
 ------------------------------------------------------------
+
+## 9. Submission Checklist
+
+- [x] Dataset provided using Option A and placed correctly.
+- [x] Model checkpoint instructions included.
+- [x] requirements.txt generated and Python version specified.
+- [x] Test command works.
+- [x] Train command works.
+- [x] Ablation study script included.
+- [x] Foundation model comparison script included.
+- [x] Error analysis script included.
+- [x] Unified comparison script included.
+
+------------------------------------------------------------
